@@ -57,3 +57,8 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Database
+
+Installing PostgreSQL - https://www.postgresql.org/download/windows/
+Installing pgAdmin - https://www.pgadmin.org/download/
