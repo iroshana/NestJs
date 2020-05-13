@@ -60,5 +60,10 @@ $ npm run test:cov
 
 ## Database
 
-Installing PostgreSQL - https://www.postgresql.org/download/windows/
-Installing pgAdmin - https://www.pgadmin.org/download/
+```bash
+# Installing PostgreSQL
+https://www.postgresql.org/download/windows/
+
+#Installing pgAdmin
+https://www.pgadmin.org/download/
+```
